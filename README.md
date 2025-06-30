@@ -3,8 +3,11 @@
 ###
 
 <p align="left">Me llamo Wilfredo Polanco y soy un desarrollador Front-End.
-a continuacion veran una series de proyectos realizados por mi mediante diseños realizados por Frondmentor.
 </p>
+
+##
+
+<p>a continuacion veran una series de proyectos realizados por mi mediante diseños realizados por Frondmentor.</p>
 
 ###
 
