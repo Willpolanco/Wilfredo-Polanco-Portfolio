@@ -5,12 +5,22 @@
 <p align="left">Me llamo Wilfredo Polanco y soy un desarrollador Front-End. <br> A continuacion veran una series de proyectos realizados por mi mediante diseños realizados por Frondmentor</p>
 
 ###
+<div style"
+  display: flex;
+  flex-directions: column;
+  gap: 20px;
+  ">
 
+<img src="https://media.canva.com/v2/image-resize/format:JPG/height:337/quality:92/uri:ifs%3A%2F%2FM%2F280ddeb6-5aba-472e-8ab6-a79c751a5dd9/watermark:F/width:415?csig=AAAAAAAAAAAAAAAAAAAAAOrusaXzuKxiOeD7kj7FjwkSFU25fV-zqrxYF5Opytnr&exp=1775084328&osig=AAAAAAAAAAAAAAAAAAAAAOaRqiw84JV_IMHmgmqQlwThbQcDkW2dm-6e7uBmzrrJ&signer=media-rpc&x-canva-quality=thumbnail_large" height="120">
+  
 <h2 align="left">Acerca de mí</h2>
 
 ###
 
 <p align="left">Desarrollador Frontend, enfocado en construir interfaces funcionales y bien estructuradas. con experiencia en entornos de trabajo colaborativo. Me adapto rápido, aprendo de forma continua y entrego soluciones limpias y organizadas.</p>
+
+
+</div>
 
 ###
 
