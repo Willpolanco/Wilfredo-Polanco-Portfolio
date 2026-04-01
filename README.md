@@ -23,9 +23,8 @@
 
 <div align="left">
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="40"/>
-  <img src"" height="40"/>
-  <img src"" height="40"/>
-  <img src"" height="40"/>
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" height="40"/>
   <img src"" height="40"/>
