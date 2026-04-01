@@ -9,11 +9,11 @@
 
 ###
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="left">Acerca de mí</h2>
 
 ###
 
-<p align="left">Soy una Persona..<br>📚 Proactivo, Responsable y organizado<br>🎯 Con objetivo de seguir mejorando </p>
+<p align="left">Desarrollador Frontend, enfocado en construir interfaces funcionales y bien estructuradas. con experiencia en entornos de trabajo colaborativo. Me adapto rápido, aprendo de forma continua y entrego soluciones limpias y organizadas.</p>
 
 ###
 
