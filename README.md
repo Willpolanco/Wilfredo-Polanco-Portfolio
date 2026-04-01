@@ -18,7 +18,7 @@
   justify-content: center;
   ">
 
-<img src="https://media.canva.com/v2/image-resize/format:JPG/height:337/quality:92/uri:ifs%3A%2F%2FM%2F280ddeb6-5aba-472e-8ab6-a79c751a5dd9/watermark:F/width:415?csig=AAAAAAAAAAAAAAAAAAAAAOrusaXzuKxiOeD7kj7FjwkSFU25fV-zqrxYF5Opytnr&exp=1775084328&osig=AAAAAAAAAAAAAAAAAAAAAOaRqiw84JV_IMHmgmqQlwThbQcDkW2dm-6e7uBmzrrJ&signer=media-rpc&x-canva-quality=thumbnail_large" height="120" style="border-radius:15px;">
+<img src="https://media.canva.com/v2/image-resize/format:JPG/height:337/quality:92/uri:ifs%3A%2F%2FM%2F280ddeb6-5aba-472e-8ab6-a79c751a5dd9/watermark:F/width:415?csig=AAAAAAAAAAAAAAAAAAAAAOrusaXzuKxiOeD7kj7FjwkSFU25fV-zqrxYF5Opytnr&exp=1775084328&osig=AAAAAAAAAAAAAAAAAAAAAOaRqiw84JV_IMHmgmqQlwThbQcDkW2dm-6e7uBmzrrJ&signer=media-rpc&x-canva-quality=thumbnail_large" height="120" style="border-radius:20;">
 </div>
 
 
