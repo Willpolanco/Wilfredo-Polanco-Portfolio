@@ -22,7 +22,7 @@
 ###
 
 <div align="left">
-  <img src="[https://www.svgrepo.com/show/354478/typescript-icon.svg](https://www.svgrepo.com/show/452228/html-5.svg)" height="40"/>
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="40"/>
   <img src"" height="40"/>
   <img src"" height="40"/>
   <img src"" height="40"/>
