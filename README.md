@@ -17,13 +17,18 @@
 
 ###
 
-<h2 align="left">Lenguajes</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
 <div align="left">
+  <img src"https://www.svgrepo.com/show/452228/html-5.svg" height="40"/>
+  <img src"" height="40"/>
+  <img src"" height="40"/>
+  <img src"" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" height="40"/>
+  <img src"" height="40"/>
   <img width="12" />
 </div>
 
